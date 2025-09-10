@@ -1,4 +1,4 @@
-package aPI.REST.models;
+package aPI.REST.Application.Models;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @SpringBootApplication
-@EntityScan(basePackages = "aPI.REST.models")
+@EntityScan(basePackages = "aPI.REST")
 public class ApiRestProjectApplication {
 
 	public static void main(String[] args) {

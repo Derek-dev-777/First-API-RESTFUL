@@ -1,4 +1,4 @@
-package aPI.REST.models;
+package aPI.REST.Application.Models;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
